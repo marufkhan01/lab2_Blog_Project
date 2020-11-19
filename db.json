@@ -1,0 +1,27 @@
+{
+  "posts": [
+      {
+          "id": 1,
+          "title": "React Post",
+          "author": "Maruf Khan",
+          "date": "Jan 12, 2015",
+          "content": "Simple: Beauty of ReactJS is its simplicity. It is a component-based language with a well-defined lifecycle. In React development developers use JSX which allows you to mix HTML with JavaScript. This is not a requirement and developer can write in plain JavaScript but JSX is much easier to use."
+       
+      },
+      {
+          "id": 2,
+          "title": "JavaScript Post",
+          "author": "Hasan Khan",
+          "date": "jan 12, 2017",
+          "content": "JavaScript® (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles."
+         
+      },
+      {
+          "id": 3,
+          "title": "CSS Post",
+          "author": "Subash Khan",
+          "date": "jan 12, 2018",
+          "content": "CSS stands for Cascading Style Sheets with an emphasis placed on “Style.” While HTML is used to structure a web document (defining things like headlines and paragraphs, and allowing you to embed images, video, and other media), CSS comes through and specifies your document’s style—page layouts, colors, and fonts are all determined with CSS. Think of HTML as the foundation (every house has one), and CSS as the aesthetic choices (there’s a big difference between a Victorian mansion and a mid-century modern home)."
+      }
+  ]
+}
